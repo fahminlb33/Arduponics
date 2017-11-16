@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Arduponics</string>
+    <string name="app_tagline">Arduino-based automated hydroponics.</string>
+    <string name="about_authors">Designed and programmed by\nFahmi Noor Fiqri and Ahmad Sobari</string>
+    <string name="copyright_text">Copyright (c)  SMA Negeri 1 Leuwiliang 2017.</string>
+    <string name="status_image_text">Status</string>
+
+    <string name="water_height_text">Water height</string>
+    <string name="humidity_text">Humidity</string>
+    <string name="temperature_text">Temperature</string>
+
+    <string name="initial_humidity_value">0%</string>
+    <string name="initial_height_value">0%</string>
+    <string name="initial_temp_value">0°C</string>
+
+    <string name="initial_status_text">Connect device</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_ok">Seems good</string>
+    <string name="status_cold">Freezing here</string>
+    <string name="status_hot">What a hot day!</string>
+
+    <string name="menu_connect">Connect</string>
+    <string name="menu_about">About</string>
+
+    <string name="cannot_connect_message">Could not connect to device. Unpair and pair again with the device.</string>
+    <string name="bt_not_enabled">Bluetooth not enabled.</string>
+    <string name="device_not_paired">Arduponics host is not paired.</string>
+</resources>
